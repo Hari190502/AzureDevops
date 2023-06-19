@@ -1,0 +1,2 @@
+cloud has majorly four services
+cloud anatomy is different from cloud architecture 
